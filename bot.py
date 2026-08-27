@@ -9,7 +9,7 @@ import os
 # ============================================
 
 BOT_TOKEN =″8834771206:AAHXE7wBgFxKv2hy5FrGiJvJ7PV83c5Gsr0″
-ADMIN_ID = int(os.environ.get('mamad914', '7903950474'))
+ADMIN_ID =7903950474
 CHANNEL_USERNAME = os.environ.get('CHANNEL_USERNAME', 'your_channel')
 CHANNEL_URL = os.environ.get('CHANNEL_URL', 'https://t.me/your_channel')
 CARD_NUMBER = os.environ.get('CARD_NUMBER', '6037-XXXX-XXXX-XXXX')
